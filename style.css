@@ -1,0 +1,12 @@
+html, body {
+  background-color: dimgray;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 50px;
+  left: 300px;
+}
+
+canvas {
+  display: block;
+}
