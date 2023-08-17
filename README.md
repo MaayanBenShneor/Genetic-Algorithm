@@ -1,5 +1,5 @@
 # Genetic-Algorithm
-link: https://maayanbenshneor.github.io/Genetic-Algorithm/
+Link: https://maayanbenshneor.github.io/Genetic-Algorithm/ <br>
 Add walls with pressing and dragging the mouse
 
 ## About
