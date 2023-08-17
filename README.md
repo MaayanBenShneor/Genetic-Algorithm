@@ -1,10 +1,10 @@
 # Genetic-Algorithm
 Link: https://maayanbenshneor.github.io/Genetic-Algorithm/ <br>
-Add walls with pressing and dragging the mouse
+Add walls with pressing and dragging the mouse.
 
 ## About
 All of the dots are trying to get to the goal (the green circle at the top) they start with 0 knowledge on where to move and using genetic algorithm to figure out the
-path to the goal. the red dot is the best one, the one who got the closest with the least steps in the previous generation
+path to the goal. the red dot is the best one, the one who got the closest with the least steps in the previous generation.
 
 ## How Does It Work
 At first they all start to move in random directions, at the end of the generation, the algorithm calculate the "fitness" of each dot which is how
